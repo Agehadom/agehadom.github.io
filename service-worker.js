@@ -14,11 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-<<<<<<< HEAD
-  "/precache-manifest.7b7c6468e369554718c2f9b955c816e5.js"
-=======
-  "/precache-manifest.4eff796957f6c70cd472e132b7d9e827.js"
->>>>>>> 8c2c951 (Opacity Fix)
+  "/precache-manifest.9adf9da8e0444657d1846928ece43087.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "domvuefoliojs"});
